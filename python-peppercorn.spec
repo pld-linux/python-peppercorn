@@ -6,7 +6,7 @@
 Summary:	A library for converting a token stream into a data structure for use in web form posts
 Name:		python-%{module}
 Version:	0.4
-Release:	2
+Release:	3
 License:	BSD-derived (http://www.repoze.org/LICENSE.txt)
 Group:		Libraries/Python
 Source0:	http://pypi.python.org/packages/source/p/peppercorn/peppercorn-%{version}.tar.gz
